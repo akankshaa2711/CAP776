@@ -24,7 +24,7 @@ MINUTES_PER_DAY = 1440
 
 # Expected tracking duration confirmed by user: 20 days.
 
-EXPECTED_DAYS = 20
+EXPECTED_DAYS = 36
 
 
 
